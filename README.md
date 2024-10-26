@@ -16,7 +16,7 @@ This Python project extracts frames from Youtube videos at specified timestamps 
 1. Clone the repository:
    bash
    git clone
-https://github.com/bhavesh1309/YouTube-Frame-Extractor.git
+https://github.com/bhavesh1309/YOUTUBE-FRAME-EXTRACTOR.git
 2. Navigate to the project directory:
    cd YouTube-Frame-Extractor
 3. Install the required dependencies:
