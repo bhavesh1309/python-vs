@@ -2,7 +2,7 @@
 This Python project extracts frames from Youtube videos at specified timestamps and compiles them into a PDF document for easy sharing and viewing.
 
 ##Features
--Etracts specified frames from Youtube videos based on user-defined timestamps.
+-Extracts specified frames from Youtube videos based on user-defined timestamps.
 -Compiles the extracted frames into a single PDF file.
 -User-friendly command-line interface for inputting video URLs and timestamps.
 
